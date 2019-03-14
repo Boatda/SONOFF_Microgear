@@ -12,8 +12,8 @@ Let's do it !!!
 4) Wire Female to Female x 1
 
 # Library & Service
-1) ESP8266 microgear library
-2) NETPIE.io account [NETPIE.io](https://www.netpie.io)
+1) [ESP8266 microgear library](https://github.com/netpieio/microgear-esp8266-arduino)
+2) [NETPIE.io account](https://www.netpie.io)
 
 # Schematics
 ![img](Photos/schematic.jpg)
