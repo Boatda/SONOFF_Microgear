@@ -40,12 +40,12 @@ void onMsghandler(char *topic, uint8_t* msg, unsigned int msglen) {
   Serial.println("");
 
   if (msgStr == "ON") {
-    digitalWrite(SONOFF_RELAY, LOW);
+    digitalWrite(SONOFF_RELAY, HIGH);
     digitalWrite(SONOFF_LED, LOW);
     relayState = true;
   }
   if (msgStr == "OFF") {
-    digitalWrite(SONOFF_RELAY, HIGH);
+    digitalWrite(SONOFF_RELAY, LOW);
     digitalWrite(SONOFF_LED, HIGH);
     relayState = false;
   }
