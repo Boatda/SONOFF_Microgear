@@ -1,3 +1,3 @@
 # SONOFF_Microgear
 
-![img](pinout.jpeg)
+![img](Photos/8.jpg)
