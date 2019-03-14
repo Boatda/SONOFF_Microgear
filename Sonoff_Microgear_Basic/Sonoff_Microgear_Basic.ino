@@ -4,13 +4,13 @@
 #include "ESP8266WiFi.h"
 #include "MicroGear.h"
 
-const char* ssid     = "ampere";
-const char* password = "espertap";
+const char* ssid     = "your wifi name";
+const char* password = "yout wifi password";
 
-#define APPID   "IOTxCAMPx2019"
-#define KEY     "JAvxaFJoukGRdoe"
-#define SECRET  "RGH8TLBXE0tSgfXe68xGgF504"
-#define ALIAS   "Sonoff001"
+#define APPID   "NETPIE APP ID"
+#define KEY     "NETPIE KEY"
+#define SECRET  "NETPIE SECRET"
+#define ALIAS   "Device Name"
 
 #define SONOFF_BUTTON 0
 #define SONOFF_RELAY  12
