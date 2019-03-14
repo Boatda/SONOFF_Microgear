@@ -1,4 +1,4 @@
-# SONOFF_Microgear
+# Sonoff Microgear
 Sonoff is a smart plug that allows you to control via appliances on app. 
 Sonoff use ESP8266 to connect wifi so we can upload code to this board.
 
