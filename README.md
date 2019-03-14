@@ -65,9 +65,9 @@ microgear.publish("/gearname/Sonoff001/status", "Connectecd");
 microgear.publish("/gearname/Sonoff001/relayState", String(relayState));
 ```
 ## netpie.io / freeboard
-![img](Photos/freeboard0.jpg)
-![img](Photos/freeboard1.jpg)
-![img](Photos/freeboard2.jpg)
-![img](Photos/freeboard3.jpg)
-![img](Photos/freeboard4.jpg)
-![img](Photos/freeboard5.jpg)
+![img](Photos/freeboard0.PNG)
+![img](Photos/freeboard1.PNG)
+![img](Photos/freeboard2.PNG)
+![img](Photos/freeboard3.PNG)
+![img](Photos/freeboard4.PNG)
+![img](Photos/freeboard5.PNG)
