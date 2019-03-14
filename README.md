@@ -64,7 +64,7 @@ void onMsghandler(char *topic, uint8_t* msg, unsigned int msglen) {
 microgear.publish("/gearname/Sonoff001/status", "Connectecd");
 microgear.publish("/gearname/Sonoff001/relayState", String(relayState));
 ```
-## netpie.io / freeboard
+## netpie.io freeboard
 ![img](Photos/freeboard0.PNG)
 ![img](Photos/freeboard1.PNG)
 ![img](Photos/freeboard2.PNG)
