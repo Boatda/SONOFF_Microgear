@@ -16,7 +16,7 @@ Let's do it !!!
 2) NETPIE.io account
 
 # Schematics
-![img](Photos/1.jpg)
+![img](Photos/schematic.jpg)
 # Code
 ## Step 1: edit WiFi password and netpie authentication
 ```arduino
