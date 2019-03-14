@@ -1,4 +1,4 @@
-# SONOFF_Microgear
+# Sonoff Microgear
 Sonoff is a smart plug that allows you to control via appliances on app. 
 Sonoff use ESP8266 to connect wifi so we can upload code to this board.
 
@@ -12,11 +12,11 @@ Let's do it !!!
 4) Wire Female to Female x 1
 
 # Library & Service
-1) ESP8266 microgear library
-2) NETPIE.io account
+1) [ESP8266 microgear library](https://github.com/netpieio/microgear-esp8266-arduino)
+2) [NETPIE.io account](https://www.netpie.io)
 
 # Schematics
-![img](Photos/1.jpg)
+![img](Photos/schematic.jpg)
 # Code
 ## Step 1: edit WiFi password and netpie authentication
 ```arduino
