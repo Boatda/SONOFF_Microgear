@@ -19,5 +19,7 @@ Let's do it !!!
 
 
 # Code
-
-
+```arduino
+void setup() {}
+void lop() {}
+```
