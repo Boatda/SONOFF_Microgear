@@ -16,8 +16,7 @@ Let's do it !!!
 2) NETPIE.io account
 
 # Schematics
-
-
+![img](Photos/1.jpg)
 # Code
 ## Step 1: edit WiFi password and netpie authentication
 ```arduino
@@ -62,7 +61,7 @@ void onMsghandler(char *topic, uint8_t* msg, unsigned int msglen) {
 ```
 ## Step 3: publish data to netpie.io
 ```arduino
- microgear.publish("/gearname/Sonoff001/status", "Connectecd");
+microgear.publish("/gearname/Sonoff001/status", "Connectecd");
 microgear.publish("/gearname/Sonoff001/relayState", String(relayState));
 ```
 
